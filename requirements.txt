@@ -1,0 +1,6 @@
+openai
+langchain (install the langchain in your current environmrnt)
+Streamlit (data apps -python framework)
+python-dotenv (will understand the use of this package)
+PyPDF2
+We use setup.py file for installing the local package in our virtual environment
